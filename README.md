@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evelynpramono
+- 👋 Hi, I’m @evelynpramono **(Ebi)**
 - 👀 I’m interested in a lot of things lol
 - 🌱 I’m currently learning machine learning
 
